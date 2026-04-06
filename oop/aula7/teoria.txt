@@ -1,0 +1,19 @@
+# OS 4 PILARES DO POO
+# 1 - Abstração
+# 2 - Encapsulamento
+# 3 - Herança
+# 4 - Polimorfismo
+
+# VAMOS APRENDER A HERANÇA HOJE!!
+
+# HERANÇA = Relacionamento entre itens gerais (ancestrais) e tipos mais especificos (descendentes) que herdam
+# atributos e metodos dos superiores
+# Vantegens = reutilização de código, organização hierárquica, facilidade de manuntenção, extensibilidade
+
+# É como um filho herdando caracteristicas dos pais mas o filho tbm pode ter caracteristicas distintas, sem
+# mudar as caracteristicas dos pais
+
+# Super classe = classe mãe, ancestral. (A primeira classe que foi criada)
+# Sub classe = Classe filha, derivada. (A classe que foi derivada da classe mãe)
+
+# A sub classe é um derivado da classe mãe, é um objeto igual, porém diferente, tipo um filho
